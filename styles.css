@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
     background: url('background.jpg') no-repeat center center;
     background-size: cover; /* Ensures proper fitting */
-    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 /* ✅ Mobile Optimization */
